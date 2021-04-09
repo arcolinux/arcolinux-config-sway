@@ -1,1 +1,1 @@
-# ArcoLinux-config for sway
+# ArcoLinux-config
